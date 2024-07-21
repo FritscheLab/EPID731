@@ -146,7 +146,7 @@ def process_lines(config_file, system_prompt_file, user_prompt_file, input_file,
 
     # Output results to a file in the specified format
     output_file_path = f'{output_location}/{file_prefix}_results'
-    if output_format_settings['format'] == 'text':
+    if output_format_settings['format'] in ['text', 'txt']:
         output_file_path += '.txt'
         try:
             with open(output_file_path, 'w') as file:
