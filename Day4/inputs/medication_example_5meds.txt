@@ -1,5 +1,10 @@
-amiodarone hydrochloride [Pacerone]
-disopyramide [Norpace]
-chlorothiazide [Diuril]
-propafenone hydrochloride [Rythmol]
-flecainide acetate [Tambocor]
+Amiodarone Hydrochloride
+Pacerone
+Disopyramide
+Norpace
+Chlorothiazide
+Diuril
+Propafenone Hydrochloride
+Rythmol
+Losartan and Hydrochlorothiazide
+Hyzaar

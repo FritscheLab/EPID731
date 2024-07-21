@@ -162,16 +162,15 @@ def process_lines(config_file, system_prompt_file, user_prompt_file, input_file,
         output_file_path += '.csv'
         try:
             with open(output_file_path, 'w', newline='') as csvfile:
-                if output_keys:
-                    fieldnames = ['Model', 'Input Line'] + output_keys + ['Prompt Tokens', 'Output Tokens']
-                else:
-                    fieldnames = ['Model', 'Input Line', 'Output', 'Prompt Tokens', 'Output Tokens']
-                fieldnames = [field for field in fieldnames if field in results[0]]
+                # Dynamically build the fieldnames based on the first result
+                fieldnames = list(results[0].keys())
+                # Filter out fields that are set to None
+                fieldnames = [field for field in fieldnames if results[0][field] is not None]
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
 
                 writer.writeheader()
                 for result in results:
-                    writer.writerow({k: v for k, v in result.items() if v is not None})
+                    writer.writerow({k: v for k, v in result.items() if k in fieldnames})
             print(f"CSV file saved successfully at {output_file_path}")
         except Exception as e:
             print(f"Error writing CSV file: {e}")
