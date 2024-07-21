@@ -9,13 +9,6 @@ from google.colab import userdata
 # Access the OpenAI API key from secrets
 api_key = userdata.get('openai_api_key')
 
-# Verify if the API key is fetched correctly
-if api_key:
-    print("API key fetched successfully!")
-else:
-    print("Failed to fetch API key. Please ensure it is set correctly.")
-    raise ValueError("API key is not set.")
-
 # Initialize the tokenizer for GPT-2
 tokenizer = get_encoding("gpt2")
 
