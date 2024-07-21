@@ -1,0 +1,1 @@
+Classify the medication by providing its generic name, primary use, and its pharmacological classification.
