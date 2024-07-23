@@ -1,0 +1,113 @@
+1 ML Atropine Sulfate 1 MG/ML Injection
+1 ML Epinephrine 1 MG/ML Injection
+1 ML Morphine Sulfate 5 MG/ML Injection
+1 ML medroxyprogesterone acetate 150 MG/ML Injection
+100 ML Propofol 10 MG/ML Injection
+12 HR Cefaclor 500 MG Extended Release Oral Tablet
+120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+2 ML Ondansetron 2 MG/ML Injection
+200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+21 DAY Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal Ring [NuvaRing]
+24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule
+3 ML Amiodarone hydrochloride 50 MG/ML Prefilled Syringe
+60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+Acetaminophen 160 MG Oral Tablet
+Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+Acetaminophen 325 MG / Hydrocodone Bitartrate 7.5 MG Oral Tablet
+Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+Acetaminophen 325 MG Oral Tablet
+Acetaminophen 750 MG / Hydrocodone Bitartrate 7.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+Alfentanil
+Amlodipine 5 MG Oral Tablet
+Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+Amoxicillin 250 MG Oral Capsule
+Amoxicillin 500 MG Oral Tablet
+Ampicillin 100 MG/ML Injectable Solution
+Aspirin 81 MG Oral Tablet
+Astemizole 10 MG Oral Tablet
+Carbamazepine 20 MG/ML Oral Suspension [Tegretol]
+Cefaclor 250 MG Oral Capsule
+Cefuroxime 250 MG Oral Tablet
+Chlorpheniramine Maleate 2 MG/ML Oral Solution
+Chlorpheniramine Maleate 4 MG Oral Tablet
+Diazepam 5 MG [Valium]
+Diazepam 5 MG/ML Injectable Solution
+Diclofenac
+Digoxin 0.125 MG Oral Tablet
+Diphenhydramine Hydrochloride 25 MG Oral Tablet
+Donepezil hydrochloride 10 MG Oral Tablet
+Donepezil hydrochloride 23 MG [Aricept]
+Doxycycline Monohydrate 100 MG Oral Tablet
+Doxycycline Monohydrate 50 MG Oral Tablet
+Etonogestrel 68 MG Drug Implant
+Fentanyl
+Fexofenadine hydrochloride 60 MG Oral Tablet
+Galantamine 4 MG Oral Tablet
+Haemophilus influenzae type b vaccine, PRP-OMP conjugate
+Hydrocortisone 10 MG/ML Topical Cream
+Ibuprofen 100 MG Oral Tablet
+Ibuprofen 200 MG Oral Tablet
+Isoflurane 999 MG/ML Inhalant Solution
+Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]
+Levonorgestrel 0.00354 MG/HR Drug Implant
+Levothyroxine Sodium 0.075 MG Oral Tablet
+Loratadine 10 MG Oral Tablet
+Lorazepam 2 MG/ML Injectable Solution
+Memantine hydrochloride 2 MG/ML Oral Solution
+Meperidine Hydrochloride 50 MG Oral Tablet
+Methotrexate 10 MG Oral Tablet
+Methylphenidate Hydrochloride 20 MG Oral Tablet
+Midazolam 1 MG/ML Injectable Solution
+NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule
+Naproxen 500 MG Oral Tablet
+Naproxen sodium 220 MG Oral Tablet
+Nitrofurantoin 5 MG/ML Oral Suspension
+Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+Penicillin G 375 MG/ML Injectable Solution
+Penicillin V Potassium 250 MG Oral Tablet
+Penicillin V Potassium 500 MG Oral Tablet
+Phenazopyridine hydrochloride 100 MG Oral Tablet
+Piperacillin 4000 MG / tazobactam 500 MG Injection
+Prednisone 2.5 MG [Deltasone]
+Prednisone 5 MG Oral Tablet
+Simvastatin 20 MG Oral Tablet
+Sodium Chloride 9 MG/ML Injectable Solution
+Sufentanil
+Tacrine 10 MG Oral Capsule
+Terfenadine 60 MG Oral Tablet
+Verapamil hydrochloride 40 MG
+Vitamin B 12 5 MG/ML Injectable Solution
+Warfarin Sodium 5 MG Oral Tablet
+alteplase 100 MG Injection
+atorvastatin 80 MG Oral Tablet
+celecoxib
+cetirizine hydrochloride 10 MG Oral Tablet
+clopidogrel 75 MG Oral Tablet
+cyclosporine, modified 100 MG [Neoral]
+desflurane 990 MG/ML Inhalant Solution
+ferrous sulfate 325 MG Oral Tablet
+heparin
+hepatitis A vaccine, adult dosage
+hepatitis B vaccine, adult dosage
+meningococcal polysaccharide (groups A, C, Y and W-135) diphtheria toxoid conjugate vaccine (MCV4P)
+pneumococcal conjugate vaccine, 13 valent
+pneumococcal polysaccharide vaccine, 23 valent
+poliovirus vaccine, inactivated
+remifentanil
+rocuronium bromide 10 MG/ML Injectable Solution
+sevoflurane 1000 MG/ML Inhalant Solution
+tetanus and diphtheria toxoids, adsorbed, preservative free, for adult use
+varicella virus vaccine
+zoster vaccine, live
+{24 (drospirenone 3 MG / Ethinyl Estradiol 0.02 MG Oral Tablet) / 4 (Inert Ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day]
+{28 (Norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+{28 (Norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]
+{28 (Norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+{5 (Ethinyl Estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (Ethinyl Estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (Ethinyl Estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (Ferrous fumarate 75 MG Oral Tab
+{7 (Ethinyl Estradiol 0.01 MG Oral Tablet) / 84 (Ethinyl Estradiol 0.03 MG / Levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]
+{7 (Ethinyl Estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (Ethinyl Estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (Ethinyl Estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (Inert Ingredients 1 MG Oral Tablet) } Pack [Or
+{7 (Ethinyl Estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (Ethinyl Estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (Ethinyl Estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (Inert Ingredients 1 MG Oral Tablet) } Pack [Tr
+{7 (Inert Ingredients 1 MG Oral Tablet) / 21 (Mestranol 0.05 MG / Norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]
