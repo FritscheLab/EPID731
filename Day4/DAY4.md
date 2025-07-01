@@ -118,11 +118,11 @@ exec(open("Day4/scripts/gpt_process_batches.py").read())
 async def run():
     await process_batches(
         config_file='Day4/configs/config_example_low_temperature.ini',
-        system_prompt_file='Day4/prompts/system_prompt_09.txt',
+        system_prompt_file='Day4/prompts/system_prompt_9.txt',
         user_prompt_file='Day4/prompts/user_prompt.txt',
         input_file='Day4/inputs/medication_example_aha.txt',
         output_location='GPT_Outputs',
-        file_prefix='Example4_prompt9_aha_meds',
+        file_prefix='Example4_prompt09_aha_meds',
         chunk_size=100  # Adjust based on API rate limits and performance needs
     )
 
