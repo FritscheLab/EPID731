@@ -4,14 +4,14 @@ import os
 import csv
 import re
 import asyncio
-from tiktoken import get_encoding
+import tiktoken
 from google.colab import userdata
 
 # Access the OpenAI API key from secrets
 api_key = userdata.get('openai_api_key')
 
-# Initialize the tokenizer for GPT-2
-tokenizer = get_encoding("gpt2")
+# Initialize the tokenizer
+tokenizer = tiktoken.get_encoding("cl100k_base")
 
 # Use the API key to create the asynchronous client
 client = openai.AsyncClient(api_key=api_key)

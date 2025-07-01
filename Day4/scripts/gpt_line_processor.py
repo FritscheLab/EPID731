@@ -3,14 +3,15 @@ import openai
 import os
 import csv
 import re
-from tiktoken import get_encoding
+import tiktoken
+
 from google.colab import userdata
 
 # Access the OpenAI API key from secrets
 api_key = userdata.get('openai_api_key')
 
-# Initialize the tokenizer for GPT-2
-tokenizer = get_encoding("gpt2")
+# Initialize the tokenizer
+tokenizer = tiktoken.get_encoding("cl100k_base")
 
 def process_line(client, input_line, system_message_content, user_message_template, model, response_settings):
     # Construct the user message content
