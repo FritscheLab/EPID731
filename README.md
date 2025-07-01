@@ -1,4 +1,4 @@
-# EPID731_2024 - Day 4
+# EPID731 - Day 4
 
 This repository contains the materials for **Day 4** of the short course **EPID731: Analysis Of Electronic Health Record (EHR) Data**, offered at the University of Michigan. The focus of Day 4, taught by Lars Fritsche, is on using GPTs to harmonize medication data.
 
@@ -80,13 +80,13 @@ asyncio
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/statgen/EPID731_2024.git
+git clone https://github.com/statgen/EPID731.git
 ```
 
 Navigate to the repository directory:
 
 ```bash
-cd EPID731_2024
+cd EPID731
 ```
 
 Install the required packages:
