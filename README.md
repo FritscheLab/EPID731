@@ -4,7 +4,7 @@ This repository contains the materials for **Day 2** and **Day 4** of the short 
 
 ### Day 2: Accessing EHR Data with R
 
-The materials for Day 2 focus on accessing and analyzing EHR data using the R programming language. The Jupyter Notebook [`Day2/EPID731_Accessing_EHR_Data.ipynb`](https://colab.research.google.com/github/FritscheLab/EPID731/blob/main/Day2/EPID731_Accessing_EHR_Data.ipynb) provides a hands-on introduction to this topic.
+The materials for Day 2 focus on accessing and analyzing EHR data using the R programming language. The Jupyter Notebook [`Day2/EPID731_Accessing_EHR_Data.ipynb`](https://colab.research.google.com/github/FritscheLab/EPID731/blob/main/Day2/EPID731_Accessing_EHR_Data.ipynb) provides a hands-on introduction to this topic. A bonus notebook, [`Day2/EPID731_BonusWhiteRabbit.ipynb`](https://colab.research.google.com/github/FritscheLab/EPID731/blob/main/Day2/EPID731_BonusWhiteRabbit.ipynb), provides a tutorial on using the White Rabbit tool for data quality assessment.
 
 > **Note for Live Session:** Participants should open the notebook in Google Colab by clicking the link above or the "Open in Colab" badge at the top of the notebook.
 
