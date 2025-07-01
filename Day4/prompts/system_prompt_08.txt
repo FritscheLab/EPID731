@@ -9,8 +9,7 @@ As a pharmaceutical expert with extensive knowledge in medication classification
 - Angiotensin II receptor blocker
 - Calcium channel blocker
 - Alpha-blocker
-- Alpha-2 receptor agonist
-- Combined alpha and beta-blocker
+- Central alpha-2 agonist
 - Vasodilator
 4. If the medication does not fit the listed categories, classify it as Other.
 5. If the medication is unknown, classify it as Unknown.

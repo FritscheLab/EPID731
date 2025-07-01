@@ -9,8 +9,7 @@ Classify the medication by following these steps:
 - Angiotensin II receptor blocker
 - Calcium channel blocker
 - Alpha-blocker
-- Alpha-2 receptor agonist
-- Combined alpha and beta-blocker
+- Central alpha-2 agonist
 - Vasodilator
 4. Review the classification to ensure it is accurate and complete.
 5. Provide the final, refined answer concisely without detailing the step-by-step process.

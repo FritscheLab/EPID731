@@ -6,9 +6,9 @@ Aldactone	Spironolactone	Diuretic
 Aldomet	Methyldopa	Central alpha-2 agonist
 Altace	Ramipril	ACE inhibitor
 Apresoline	Hydralazine	Vasodilator
-Atacand	Candesartan	ARB
-Avapro	Irbesartan	ARB
-Benicar	Olmesartan	ARB
+Atacand	Candesartan	Angiotensin II receptor blocker
+Avapro	Irbesartan	Angiotensin II receptor blocker
+Benicar	Olmesartan	Angiotensin II receptor blocker
 Bumex	Bumetanide	Diuretic
 Bystolic	Nebivolol	Beta-blocker
 Calan SR	Verapamil	Calcium channel blocker
@@ -16,22 +16,22 @@ Capoten	Captopril	ACE inhibitor
 Cardene SR	Nicardipine	Calcium channel blocker
 Cardizem CD	Diltiazem	Calcium channel blocker
 Cardizem SR	Diltiazem	Calcium channel blocker
-Cardura	Doxazosin	Alpha blocker
+Cardura	Doxazosin	Alpha-blocker
 Catapres	Clonidine	Central alpha-2 agonist
 Coreg	Carvedilol	Beta-blocker
 Coreg CR	Carvedilol phosphate	Beta-blocker
 Corgard	Nadolol	Beta-blocker
 Covera HS	Verapamil	Calcium channel blocker
-Cozaar	Losartan	ARB
+Cozaar	Losartan	Angiotensin II receptor blocker
 Demadex	Torsemide	Diuretic
 Dilacor XR	Diltiazem	Calcium channel blocker
-Diovan	Valsartan	ARB
+Diovan	Valsartan	Angiotensin II receptor blocker
 Duraclon	Clonidine	Central alpha-2 agonist
 Dyrenium	Triamterene	Diuretic
 Esidrix	Hydrochlorothiazide	Diuretic
 Hydro-ride	Amiloride	Diuretic
 Hydrodiuril	Hydrochlorothiazide	Diuretic
-Hytrin	Terazosin hydrochloride	Alpha blocker
+Hytrin	Terazosin hydrochloride	Alpha-blocker
 Inderal	Propranolol	Beta-blocker
 Inderal LA	Propranolol	Beta-blocker
 InnoPran XL	Propranolol	Beta-blocker
@@ -46,9 +46,9 @@ Lopressor	Metoprolol tartrate	Beta-blocker
 Lotensin	Benazepril	ACE inhibitor
 Lozol	Indapamide	Diuretic
 Mavik	Trandolapril	ACE inhibitor
-Micardis	Telmisartan	ARB
+Micardis	Telmisartan	Angiotensin II receptor blocker
 Midamor	Amiloride	Diuretic
-Minipress	Prazosin	Alpha blocker
+Minipress	Prazosin	Alpha-blocker
 Monopril	Fosinopril	ACE inhibitor
 Nexiclon XR	Clonidine	Central alpha-2 agonist
 Norvasc	Amlodipine	Calcium channel blocker
