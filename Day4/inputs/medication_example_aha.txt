@@ -1,158 +1,120 @@
 Accupril
 Aceon
 Adalat CC
-Aldactazide
 Aldactone
 Aldomet
 Altace
+Amiloride
+Amlodipine
 Apresoline
 Atacand
+Atenolol
 Avapro
+Benazepril
 Benicar
+Bisoprolol
+Bumetanide
 Bumex
 Bystolic
 Calan SR
+Candesartan
 Capoten
+Captopril
 Cardene SR
 Cardizem CD
 Cardizem SR
 Cardura
+Carvedilol
+Carvedilol phosphate
 Catapres
+Chlorthalidone
+Clonidine
 Coreg
 Coreg CR
-Coreg IR
 Corgard
 Covera HS
 Cozaar
-Demandex
+Demadex
 Dilacor XR
+Diltiazem
 Diovan
+Doxazosin
 Duraclon
-Dyazide
-DynaCirc
-DynaCirc CR
 Dyrenium
-Edarbi
+Enalapril
+Eplerenone
 Esidrix
+Felodipine
+Fosinopril
+Furosemide
+Guanfacine
+Hydralazine
+Hydro-ride
+Hydrochlorothiazide
 Hydrodiuril
-Hygroton
 Hytrin
+Indapamide
 Inderal
 Inderal LA
+InnoPran XL
 Inspra
 Intuniv
+Irbesartan
 Isoptin SR
+Kapspargo Sprinkle
 Kapvay
-Kerlone
+Labetalol
 Lasix
-Levatol
+Lisinopril
 Loniten
 Lopressor
+Losartan
 Lotensin
-Lotrel
 Lozol
 Mavik
-Maxzide
+Methyldopa
+Metoprolol succinate
+Metoprolol tartrate
 Micardis
-Microzide
-Midamar
+Midamor
 Minipress
-Moduretic
+Minoxidil
+Moexipril
 Monopril
-Mykrox
-NEXICLON XR
-Normodyne
+Nadolol
+Nebivolol
+Nexiclon XR
+Nicardipine
+Nifedipine
+Nifedipine LA
 Norvasc
+Olmesartan
+Perindopril
+Pindolol
 Plendil
-Prinivel
+Prazosin
+Prinivil
 Procardia XL
-Rasilez
-Sectral
-Soaanz
-Sular
-Tekturna
-Tekturna Hct
+Propranolol
+Quinapril
+Ramipril
+Spironolactone
+Telmisartan
 Tenex
 Tenormin
-Teveten
+Terazosin hydrochloride
+Thalitone
 Tiazac
-Toprol-XL
+Toprol XL
+Torsemide
 Trandate
+Trandolapril
+Triamterene
 Univasc
+Valsartan
 Vasotec
+Verapamil
 Verelan
 Visken
-Zaroxolyn
 Zebeta
 Zestril
-Ziac
-acebutolol
-aliskiren
-aliskiren + hydrochlorothiazide
-amiloride hydrochloride
-amiloride hydrochloride + hydrochlorothiazide
-amlodipine
-amlodipine + benazepril
-atenolol
-azilsartan
-benazepril
-betaxolol
-bisoprolol
-bumetanide
-candesartan
-captopril
-carvedilol
-carvedilol phosphate
-chlorthalidone
-clonidine
-diltiazem
-doxazosin
-enalapril
-eplerenone
-eprosartan
-felodipine
-fosinopril
-furosemide
-guanfacine
-hydralazine
-hydrochlorothiazide
-hydrochlorothiazide and bisoprolol
-indapamide
-irbesartan
-isradipine
-labetalol
-labetalol hydrochloride
-lisinopril
-losartan
-methyldopa
-metolazone
-metoprolol succinate
-metoprolol tartrate
-minoxidil
-moexipril
-nadolol
-nebivolol
-nicardipine
-nifedipine LA
-nisoldipine
-olmesartan
-penbutolol
-perindopril
-pindolol
-prazosin
-propranolol IR
-propranolol LA
-quinapril
-ramipril
-solatol hydrochloride
-spironolactone
-spironolactone + hydrochlorothiazide
-telmisartan
-terazosin hydrochloride
-timolol maleate
-torsemide
-trandolapril
-triamterene
-triamterene + hydrochlorothiazide
-valsartan
-verapamil
