@@ -2,6 +2,10 @@
 
 This repository contains the materials for **Day 2** and **Day 4** of the short course **EPID731: Analysis Of Electronic Health Record (EHR) Data**, offered at the University of Michigan.
 
+### Crash Course and Setup
+
+For a detailed guide on setting up your environment (for R and Python), navigating the repository, and using the materials in Google Colab, please see the **[Crash Course Guide](CRASHCOURSE.md)**. This guide provides step-by-step instructions, links to external tutorials, and other useful information to get you started.
+
 ### Day 2: Accessing EHR Data with R
 
 The materials for Day 2 focus on accessing and analyzing EHR data using the R programming language. The Jupyter Notebook [`Day2/EPID731_Accessing_EHR_Data.ipynb`](https://colab.research.google.com/github/FritscheLab/EPID731/blob/main/Day2/EPID731_Accessing_EHR_Data.ipynb) provides a hands-on introduction to this topic. A bonus notebook, [`Day2/EPID731_BonusWhiteRabbit.ipynb`](https://colab.research.google.com/github/FritscheLab/EPID731/blob/main/Day2/EPID731_BonusWhiteRabbit.ipynb), provides a tutorial on using the White Rabbit tool for data quality assessment.
